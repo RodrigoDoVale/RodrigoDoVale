@@ -7,7 +7,7 @@
 
 <div>
 <a href="https://github.com/RodrigoDoVale">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Anabonati&theme=aura&show_icons=truetheme=aura"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=RodrigoDoVale&theme=aura&show_icons=truetheme=aura"/>
 
 <a href="https://github.com/Anabonati">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDoVale&layout=compact&langs_count=7&theme=aura"/>
