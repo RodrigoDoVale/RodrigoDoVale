@@ -1,4 +1,4 @@
-<div align="center" ><img width="100%" src=https://www.google.com/url?sa=https://github.com/Anabonati/Anabonati/assets/124581821/290af07f-36f0-4144-ba85-9ba02bb9f687
+<div align="center" ><img width="100%" src=https://github.com/Anabonati/Anabonati/assets/124581821/290af07f-36f0-4144-ba85-9ba02bb9f687
 .png"></div>
 
 <div align="center">
